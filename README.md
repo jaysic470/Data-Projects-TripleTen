@@ -4,7 +4,7 @@ A collection of data analysis and machine learning projects completed during the
 
 ## 📁 Projects
 
-1. [Customer Churn Prediction](https://github.com/jaysic470/customer-churn)
-2. [Instacart Basket Analysis](https://github.com/jaysic470/instacart-eda)
-3. [Vehicle Price Modeling](https://github.com/jaysic470/car-price-regression)
-4. [Sentiment Analysis](https://github.com/jaysic470/sentiment-analysis)
+1. [Carsales-Price-Predictions](https://github.com/jaysic470/Carsales-Price-Predictions)
+2. [Telecom-Customer-Churn](https://github.com/jaysic470/Telecom-Customer-Churn)
+3. [Videogame-SDA](https://github.com/jaysic470/Videogame-SDA)
+4. [Revenue-Driven-Budget](https://github.com/jaysic470/Revenue-Driven-Budget)
